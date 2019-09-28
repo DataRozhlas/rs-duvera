@@ -2,97 +2,168 @@
 import Highcharts from "highcharts";
 
 const colors = ["#1d8f64", "#ce4a08", "#6159a4", "#de0077", "#569918", "#df9c09"];
+const tridy = ["Zajištěná střední třída", "Nastupující kosmopolitní třída", "Tradiční pracující třída", "Třída místních vazeb", "Ohrožená třída", "Strádající třída"];
 
-const barDuvera = (render, title, data) => (
-  Highcharts.chart(render, {
-    chart: {
-      type: "column",
-    },
+const barDuvera = (render, title, data) => Highcharts.chart(render, {
+  chart: {
+    type: "column",
+  },
+  title: {
+    text: title,
+  },
+  colors,
+  xAxis: {
     title: {
-      text: title,
+      text: null,
     },
-    colors,
-    xAxis: {
-      title: {
-        text: null,
+    categories: tridy,
+  },
+  yAxis: {
+    min: -50,
+    max: 50,
+    title: {
+      text: "nedůvěra / důvěra",
+    },
+  },
+  tooltip: {
+    enabled: false,
+  },
+  legend: {
+    enabled: false,
+  },
+  plotOptions: {
+    column: {
+      colorByPoint: true,
+      dataLabels: {
+        enabled: true,
       },
-      categories: ["Zajištěná střední třída", "Nastupující kosmopolitní třída", "Tradiční pracující třída", "Třída místních vazeb", "Ohrožená třída", "Strádající třída"],
+      groupPadding: 0.1,
     },
-    yAxis: {
-      min: -50,
-      max: 50,
-      title: {
-        text: "nedůvěra / důvěra",
-      },
-    },
-    tooltip: {
-      enabled: false,
-    },
-    legend: {
-      enabled: false,
-    },
-    plotOptions: {
-      column: {
-        colorByPoint: true,
-        dataLabels: {
-          enabled: true,
-        },
-        groupPadding: 0.1,
-      },
-    },
-    credits: {
-      enabled: false,
-    },
-    series: [{
-      name: "Data",
-      data,
-    }],
-  }));
+  },
+  credits: {
+    enabled: false,
+  },
+  series: [{
+    name: "Data",
+    data,
+  }],
+});
 
-const barStrukt = (render, title, data) => (
-  Highcharts.chart(render, {
-    chart: {
-      type: "column",
-    },
+const barStrukt = (render, title, data) => Highcharts.chart(render, {
+  chart: {
+    type: "column",
+  },
+  title: {
+    text: title,
+  },
+  colors,
+  xAxis: {
     title: {
-      text: title,
+      text: null,
     },
-    colors,
-    xAxis: {
-      title: {
-        text: null,
+    categories: tridy,
+  },
+  yAxis: {
+    min: 0,
+    max: 50,
+    title: {
+      text: null,
+    },
+  },
+  tooltip: {
+    shared: true,
+    valueSuffix: " %",
+  },
+  legend: {
+    enabled: true,
+    itemStyle: { textOverflow: undefined },
+  },
+  plotOptions: {
+    column: {
+      colorByPoint: true,
+      dataLabels: {
+        enabled: true,
+        formatter: function fmt() { return `${this.y} %`; },
       },
-      categories: ["Zajištěná střední třída", "Nastupující kosmopolitní třída", "Tradiční pracující třída", "Třída místních vazeb", "Ohrožená třída", "Strádající třída"],
+      groupPadding: 0.1,
     },
-    yAxis: {
-      min: 0,
-      max: 50,
-      title: {
-        text: null,
-      },
-    },
-    tooltip: {
-      shared: true,
-      valueSuffix: " %",
-    },
-    legend: {
-      enabled: true,
-    },
-    plotOptions: {
-      column: {
-        colorByPoint: true,
-        dataLabels: {
-          enabled: true,
-          formatter: function fmt() { return `${this.y} %`; },
-        },
-        groupPadding: 0.1,
-      },
-    },
-    credits: {
+  },
+  credits: {
+    enabled: false,
+  },
+  series: data,
+});
+
+const scatterPostoje = (render) => Highcharts.chart(render, {
+  chart: {
+    type: "scatter",
+  },
+  title: {
+    text: "Postoje vůči společenským skupinám",
+  },
+  subtitle: {
+    text: "Kategorie můžete vybrat v legendě pod grafem",
+  },
+  credits: {
+    enabled: false,
+  },
+  xAxis: {
+    title: {
       enabled: false,
     },
-    series: data,
-  }));
+    categories: [0, "partner", "přítel", "soused", "kolega", "spoluobčan", "návštěvník země", "ani návštěvník"],
+    min: 1,
+    max: 7,
+    lineColor: "#fff",
+  },
+  yAxis: {
+    title: {
+      enabled: false,
+    },
+    labels: {
+      style: { textOverflow: "none" },
+    },
+    categories: tridy,
+    tickmarkPlacement: "on",
+  },
+  tooltip: {
+    formatter: function fmt() {
+      return `${tridy[this.y]}:<br>${this.series.name} má na škále blízkosti hodnotu ${String(this.x).replace(".", ",")}.`;
+    }
+  },
+  plotOptions: {
+    scatter: {
+      marker: {
+        radius: 5,
+      },
+    },
+  },
+  legend: {
+    itemStyle: { textOverflow: undefined },
+  },
+  series: [{
+    name: "Cizinec ze západních zemí",
+    data: [[2.54, 0], [2.12, 1], [3.58, 2], [3.54, 3], [3.50, 4], [4.04, 5]],
+  }, {
+    name: "Člověk jiného politického přesvědčení",
+    data: [[2.87, 0], [2.67, 1], [3.31, 2], [3.28, 3], [3.33, 4], [3.88, 5]],
+  }, {
+    name: "Osoba jiné barvy pleti",
+    data: [[3.14, 0], [2.52, 1], [4.26, 2], [4.02, 3], [3.80, 4], [4.48, 5]],
+  }, {
+    name: "Ukrajinec",
+    data: [[3.49, 0], [3.01, 1], [4.24, 2], [3.93, 3], [4.09, 4], [4.85, 5]],
+  }, {
+    name: "Rom",
+    data: [[4.36, 0], [3.78, 1], [5.17, 2], [4.92, 3], [4.98, 4], [5.31, 5]],
+  }, {
+    name: "Muslim",
+    data: [[5.02, 0], [4.29, 1], [6.02, 2], [5.93, 3], [5.62, 4], [6.11, 5]],
+  }, {
+    name: "Závislý na drogách",
+    data: [[5.95, 0], [5.66, 1], [6.51, 2], [6.29, 3], [6.15, 4], [6.51, 5]],
+  }],
+});
 
 barDuvera("graf-duvera-mzl", "Mezilidská důvěra", [-1, 6, -28, -3, -17, -42]);
 barDuvera("graf-duvera-inst", "Důvěra institucím", [-4, 0, -10, -2, -13, -17]);
@@ -111,3 +182,4 @@ barStrukt("graf-zaraz", "Kam by sami sebe zařadili", [
   { name: "Vyšší sřední třída", data: [17, 27, 3, 4, 3, 0] },
   { name: "Vyšší třída", data: [0, 1, 0, 1, 0, 1] },
 ]);
+scatterPostoje("graf-postoje");

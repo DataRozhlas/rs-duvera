@@ -3,7 +3,7 @@
   flex-wrap: wrap;
 }
 
-.grafy-grid > div {
+.grafy-grid>div {
   width: 50%;
   height: 300px;
 }
@@ -12,12 +12,26 @@
   height: 250px;
 }
 
+.graf-strukt {
+  height: 500px;
+}
+
+.graf-postoje {
+  height: 450px;
+}
+
 @media only screen and (max-width: 600px) {
-  .grafy-grid > div {
+  .grafy-grid>div {
     width: 100%;
   }
-
   .graf-duvera {
     height: 400px;
+  }
+  .graf-strukt {
+    height: 550px;
+  }
+
+  .graf-postoje {
+    height: 550px;
   }
 }
