@@ -1,5 +1,5 @@
-title: "Jak si Češi důvěřují? příklady příklady"
-perex: "Tady ti nedůvěřují těm, tihleti zase jiným. Nikdo nedůvěřuje tomuhle. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
+title: "Elity existují, myslí si Češi. Sami se k nim ale neřadí"
+perex: "Češi jsou jako celek nedůvěřiví ke státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sami sebe zařazuje do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
@@ -10,7 +10,7 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 Společnosti, ve kterých je důvěra nízká, naopak neprospívají, což se projevuje na fungování státu i v mezilidských vztazích. Důvěra mezi nejbližšími i zkušenosti s těmi, které člověk osobně nezná, jsou tak klíčovými ukazateli fungující demokracie. "Typů důvěry je více, ale v našem výzkumu jsme se zaměřili na dva typy: mezilidskou důvěru a důvěru v instituce státu," říká Tabery. 
 
-S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál - jeden z šesti typů kapitálu, které sociologové respondentům výzkumu přiřazovali. Ten indikuje, zda mají v nejbližším okolí někoho připraveného pomoci například během nemoci nebo při finančních nesnázích. Největší roli podle Tabery hraje u mezilidské důvěry.
+S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál - jeden z šesti kategorií kapitálu, které sociologové respondentům výzkumu přiřazovali. Ten indikuje, zda mají v nejbližším okolí někoho připraveného pomoci například během nemoci nebo při finančních nesnázích. Největší roli podle Tabery hraje u mezilidské důvěry.
 
 ## Jak si věříme
 Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poctivost lidí. Pro fungující společnost je podle nich velmi důležitá a její deficit může do budoucna znamenat problém.
@@ -55,17 +55,41 @@ Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí mal
 
 Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení spoleřnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Tabery. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a ze toho pohledu pojímat i celou strukturu společnosti."
 
+## Kam se řadíme
+
+Další úhel pohledu na představy o struktuře společnosti poskytují odpovědi na otázku, do které vrstvy by se příslušníci jednotlivých tříd sami zařadili. Toto sebezařazení částečně kopíruje rozvrstvení společnosti na třídy zjištěné ve výzkumu, najdeme ovšem i viditelné rozdíly. "Většina lidí z každé třídy s výjimkou strádající řadí sama sebe ke střední vrstvě," říká Tabery. "Strádající třída se oproti ostatním zjevně zařazuje níž, i tak u ní ale převládá řazení k nižší střední a střední vrstvě."
+
 <div id="graf-zaraz"></div>
 
-<!-- odsud -->
+To samé platí i u zajištěné střední třídy, která je podle svých kapitálů jednou z vyšších středních tříd, sebezařazuje se tak ale pouhých 17  procent jejích příslušníků. Nastupující kosmopolitní třída vnímá své výsadní postavení o něco více, situace ale je podobná - za vyšší střední vrstvu se považuje jen 27 % jejích příslušníků.
 
-Trochu jiný pohled na představy o struktuře společ-nosti poskytuje sebezařazení příslušníků jednotlivých tříd do určité společenské vrstvy. Toto sebezařazení do jisté míry kopíruje rozvrstvení společnosti na třídy zjištěné ve výzkumu, ovšem jsou zde i na první pohled viditelné rozdíly. Většina lidí z každé třídy s výjimkou Strádající třídy totiž sama sebe řadí ke střední vrstvě. V případě Strádající třídy je zde zjevný posun k nižším třídám, ovšem i tak převládá řazení se k nižší střední a střední vrstvě. A naopak, i když velikost ekonomic-kého, ale i sociálního a kulturního kapitálu činí ze Zajištěné střední třídy jednu z vyšších středních tříd, pouze celkem malý podíl jejich příslušníků (17 %) takto vidí sama sebe. Velmi podobná je situace i u Nastupující kosmopolitní třídy, i když ta ve větší míře vnímá své výsadní postavení. Za vyšší střední vrstvu se považuje 27 % jejích příslušníků. A zatímco ke zcela nejnižší třídě se hlásí poměrně velká část lidí ze Strádající třídy(22 %), ale i menší podíl z Tradiční pracující a Ohrožené třídy, nejvyšší třída v podstatě není zastoupena. Takže i když se při hodnocení celkové struktury společnosti lidé kloní k tomu, že někde na její špičce je vyšší vrstva, vrstva elit, sami sebe do této skupiny řadí minimálně.
+A zatímco se k nejnižší třídě hlásí poměrně velká část lidí ze strádající třídy (22 %), ale i příslušníci dalších tříd, do nejvyšší vrstvy sám sebe neřadí téměř nikdo. Paradoxně tak vzniká situace, kdy se při hodnocení celkové struktury společnosti lidé kloní k tomu, že někde na její špičce je vrstva elit, sami sebe ale do této skupiny řadí minimálně.
 
-## Postoje vůči různým společenským skupinám
-<div id="graf-postoje" class="graf-postoje"></div>
-Každá společnost se skládá z různorodých etnických, politic-kých, náboženských a dalších skupin, které spolu v daném pro-storu žijí a sdílejí zdroje. Pokud je některá ze skupin vnímána zbytkem společnosti velmi negativně, zpravidla dochází k její diskriminaci, může se stát cílem celospolečenské frustrace, nebo napětí může přerůst až ve společenský konflikt. Postoje skupin mezi sebou a také postoje většiny vůči menšinovým skupinám jsou tak jedním ze zásadních ukazatelů společenské soudržnosti.Vztahy k vybraným skupinám byly ve výzkumu měřeny pomocí Bogardusovy škály sociální distance (viz rámeček). Největší odstup má česká společnost vůči lidem závislým na drogách, kdy 67 % obyvatel by je nepřijalo ani jako návštěv-níky České republiky. Druhou největší distanci mají Češi vůči muslimům, které by 38 % respondentů do ČR nevpustilo a 34 % vpustilo pouze jako návštěvníky. Následují Romové, které by nevpustilo do ČR 25 % respondentů a 25 % je akceptuje maximálně jako občany ČR. Drogově závislí, muslimové a Romové jsou tak v očích veřejnosti pojímáni jako nejvíce nepřijatelné skupiny obyvatel. Ostatní šetřené skupiny již ne-jsou vnímány tak negativně.Co se týče rozdílů mezi třídami, je zde patrný obecný trend, že třídy s vyššími kapitály jsou vůči skupinám tolerant-nější. Nastupující kosmopolitní třída tak například zastává ke všem skupinám nejvstřícnější postoje, a naopak Strádající tří-da si udržuje od všech skupin největší odstup. Z tohoto trendu je zajímavou výjimkou Tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná Strádající třídě než ostatním nižším středním třídám. Míru příznivého vnímání skupin totiž výrazně zvyšuje lidský kapitál a v menší míře také soci-álně podpůrný kapitál, kterými Tradiční pracující třída dispo-nuje spíše v menší míře. Vyšší míra zmíněných dvou kapitálů u Nastupující kosmopolitní třídy vysvětluje také to, že tato třída ve srovnání se Zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří disponují schopnostmi překračovat komunikační bariéry, ať už jazykové, či technologické, jsou vůči různým skupinám vstřícnější.
-
+## Roma za souseda nechceme
 <right>
-<h3>Bogardusova škála sociální distance</h3>
-Bogardusova škála je již téměř sto let využívaný způsob, kterým lze měřit míru vstřícnosti vůči různým skupinám obyvatel. Respondent je dotázán, jak blízko by byl ochoten k sobě pustit příslušníka dané skupiny, přičemž blízkost může určit výběrem z následujících kategorií: životní partner – přítel – soused – spolupracovník, kolega – občan země – návštěvník země – nepřijal by ani jako návštěvníka země. Pokud je někdo ochoten například přijmout člena určité skupiny jako svého životního partnera, předpokládá se, že má pozitivní vztah ke skupině jako celku. Uvedené kategorie jsou navrženy a testovány tak, aby byly od sebe přibližně stejně vzdálené, tedy po jednotlivých krocích je dávkována vždy stejná míra vstřícnosti (nebo směrem ven ne-vstřícnosti). Například rozdíl v míře vstřícnosti mezi kategoriemi „kolega“ a „občan země“ by měl být velmi podobný jako rozdíl mezi kategoriemi „přítel“ a „soused“.
+<h4>Bogardusova škála sociální distance</h4>
+Bogardusova škála je už téměř sto let využívaný způsob měření míry vstřícnosti vůči různým skupinám obyvatel. Respondent je dotázán, jak blízko by byl ochoten k sobě pustit příslušníka dané skupiny, přičemž blízkost může určit výběrem z následujících kategorií: životní partner – přítel – soused – spolupracovník, kolega – občan země – návštěvník země – nepřijal by ani jako návštěvníka země. Pokud je někdo ochoten například přijmout člena určité skupiny jako svého životního partnera, předpokládá se, že má pozitivní vztah ke skupině jako celku. Kategorie jsou navrženy a testovány tak, aby byly od sebe přibližně stejně vzdálené, rozdíl v míře vstřícnosti mezi kategoriemi „kolega“ a „občan země“ by tak měl být velmi podobný jako rozdíl mezi kategoriemi „přítel“ a „soused“.
 </right>
+
+Výzkumníci se nezabývali jen důvěrou mezi lidmi a k institucím, ale také to, jak Češi vnímají menšiny, které mezi nimi žijí. "Pokud je některou z menšinových skupin vnímá zbytek společnosti velmi negativně, zpravidla dochází k její diskriminaci, může se stát cílem celospolečenské frustrace a napětí může přerůst až ve společenský konflikt," upozorňuje Tabery. "Postoje k menšinám jsou tak jedním ze zásadních ukazatelů společenské soudržnosti."
+
+Vztahy k vybraným skupinám měřili sociologové pomocí takzvané Bogardusovy škály sociální distance, která přisuzuje skupinám různou míru "vzdálenosti". Zjistili tak, že největší odstup má česká společnost vůči lidem závislým na drogách. 67 procent obyvatel by je nepřijalo ani jako návštěvníky České republiky. 
+
+Následují muslimové, které by 38 % respondentů nevpustilo do ČR a 34 % by je vpustilo pouze jako návštěvníky. Na pomyslném třetím místě skončili Romové, které by nevpustila do ČR čtvrtina respondentů a další čtvrtina je akceptuje maximálně jako občany ČR. Drogově závislí, muslimové a Romové jsou tak mezi Čechy nejvíce nepřijatelné skupiny obyvatel.
+
+<div id="graf-postoje" class="graf-postoje"></div>
+
+<left>
+<h4>Není kapitál jako kapitál</h4>
+<p>Každému z respondentů přiřadili sociologové tři typy takzvaných kapitálů, vždy se dvěma podkategoriemi.</p>
+
+<p>Prvním je <b>ekonomický kapitál</b>, který v sobě zahrnuje <em>příjem</em> a <em>majetek</em> dotázaných – právě v nahromaděném majetku panují v Česku větší nerovnosti než v příjmech.</p>
+
+<p>Druhý, <b>sociální kapitál</b>, udává, jak rozsáhlá a prestižní je jejich <i>sociální síť</i>, tedy okruh jejich známých, a zda mají v nejbližším okolí někoho připraveného pomoci například během nemoci nebo při finančních nesnázích – v terminologii výzkumníků <i>pomáhající kapitál</i>.</p>
+
+<p><b>Poslední kategorie</b> zahrnuje <i>lidský kapitál</i>, tedy hlavně znalosti cizích jazyků a počítačové dovednosti, a <i>kulturní kapitál</i> měřený třeba tím, jak často dotyční chodí do divadel, muzeí nebo na výstavy. Díky němu se mezi generacemi přenášejí hodnoty, jako je důraz na vzdělání.</p>
+</left>
+
+Pohled po třídách ukazuje, že do čím vyšší vrstvy se lidé řadí, tím jsou vůči menšinám tolerantnější. Nastupující kosmopolitní třída tak zastává ke všem skupinám nejvstřícnější postoje, strádající třída si od nich naopak udržuje největší odstup. Výjimku tvoří tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná strádající třídě než ostatním nižším středním třídám. 
+
+"Míru příznivého vnímání skupin výrazně zvyšuje lidský kapitál a v menší míře také pomáhající kapitál, kterými tradiční pracující třída disponuje spíše méně," říká Tabery. "Vyšší míra zmíněných dvou kapitálů u nastupující kosmopolitní třídy vysvětluje i to, že tato třída ve srovnání se zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří zvládnou překračovat komunikační bariéry, ať už jazykové, nebo technologické, jsou vůči různým skupinám vstřícnější."

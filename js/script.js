@@ -49,7 +49,7 @@ const barDuvera = (render, title, data) => Highcharts.chart(render, {
   }],
 });
 
-const barStrukt = (render, title, data) => Highcharts.chart(render, {
+const barStrukt = (render, title, data, max) => Highcharts.chart(render, {
   chart: {
     type: "column",
   },
@@ -65,7 +65,7 @@ const barStrukt = (render, title, data) => Highcharts.chart(render, {
   },
   yAxis: {
     min: 0,
-    max: 50,
+    max,
     title: {
       text: null,
     },
@@ -174,12 +174,12 @@ barStrukt("graf-strukt", "Představy o struktuře společnosti", [
   { name: "Skládá se z vyšší, střední a nižší třídy – ty mezi sebou nemají moc společného", data: [47, 44, 48, 49, 46, 39] },
   { name: "Jsou tu společenské špičky (elita) a nejnižší třída – většina lidí je mezi nimi a je si podobná", data: [40, 43, 34, 32, 34, 32] },
   { name: "Jsou tu jen dvě skupiny – obyčejní lidé a malá společenská špička na druhé straně", data: [10, 8, 15, 15, 17, 26] },
-]);
+], 50);
 barStrukt("graf-zaraz", "Kam by sami sebe zařadili", [
   { name: "Nižší třída", data: [0, 1, 8, 3, 9, 22] },
   { name: "Nižší střední třída", data: [15, 12, 38, 37, 37, 41] },
   { name: "Střední třída", data: [68, 59, 52, 56, 52, 37] },
   { name: "Vyšší sřední třída", data: [17, 27, 3, 4, 3, 0] },
   { name: "Vyšší třída", data: [0, 1, 0, 1, 0, 1] },
-]);
+], 75);
 scatterPostoje("graf-postoje");
