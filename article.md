@@ -53,7 +53,7 @@ Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí mal
 
 Češi vnímají strukturu společnosti podobně i napříč společenskými třídami. Rozdíly ale existují. Nejvíce ve svém pohledu vybočuje strádající třída, v níž vidí 26 procent lidí - výrazně víc než v jiných třídách - společnost jako rozdělenou na obyčejné lidi a elitu.
 
-Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení spoleřnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Tabery. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a ze toho pohledu pojímat i celou strukturu společnosti."
+Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení společnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Tabery. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a ze toho pohledu pojímat i celou strukturu společnosti."
 
 ## Kam se řadíme
 
