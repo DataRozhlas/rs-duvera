@@ -1,38 +1,56 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
+title: "Jak si Češi důvěřují? příklady příklady"
+perex: "Tady ti nedůvěřují těm, tihleti zase jiným. Nikdo nedůvěřuje tomuhle. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
-styles: []
+styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [noheader, nopic] #wide, noheader (, nopic)
 ---
+"Vysoká míra důvěry ve společnosti je spojovaná se samými pozitivy," říká spoluautorka výzkumu Paulína Tabery z Centra pro výzkum veřejného mínění (CVVM). "Zajišťuje ve společnosti stabilitu a soudržnost a ulehčuje vše od obchodních transakcí po běžnou komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je totiž mnohem lehčí."
+
+Společnosti, ve kterých je důvěra nízká, naopak neprospívají, což se projevuje na fungování státu i v mezilidských vztazích. Důvěra mezi nejbližšími i zkušenosti s těmi, které člověk osobně nezná, jsou tak klíčovými ukazateli fungující demokracie. "Typů důvěry je více, ale v našem výzkumu jsme se zaměřili na dva typy: mezilidskou důvěru a důvěru v instituce státu," říká Tabery.
+
+## Jak si věříme
+Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poctivost lidí. Pro fungující společnost je podle nich velmi důležitá a její deficit může do budoucna znamenat problém.
+
+Každá z <a href="#tridy-box">šesti společenských tříd</a>, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot.
+
+<div id="graf-duvera-mzl" class="graf-duvera"></div>
+
+Co se týče důvěry institucím, i v tomto případě je to opět Strádající třída, která si drží největší odstup. Je následovaná Ohroženou třídou a Tradiční pracující třídou. Zajištěná střední třída, Třída místních vazeb a Nastupující kosmopolitní třídaprojevují vyšší míru institucionální důvěry. Při bližším pohledu na institucionální důvěru je patrné, že panuje vyšší důvěra mocenským institucím, jako jsou soudy a policie, než politickým institucím, jako jsou vláda a parlament, a to napříč všemi třídami. I když se všechny třídy shodnou ve vyšší míře důvěry mocenským institucím, přece jenom existují rozdíly, v jak velké míře jim důvěřují. Právě dvě vyšší třídy, Zajištěná střední třída a Nastupující kosmopolitní třída, jsou těmi nejvíce důvěřujícími, následuje Třída místních vazeb. I v tomto případě je to právě Strádající třída, která projevuje nejmenší míru důvěry. V menší míře důvěry politickým institucím nejsou jednotlivé třídy natolik rozdílné, i když nejmenší míru důvěry lze i zde zaznamenat u Strádající třídy, případně Ohrožené třídy.Důvěra institucím je zásadní pro fungování demokracie, přičemž v míře této důvěry se odráží nejen důvěra v systém, ale hlavně výkon daných institucí a přímá nebo (médii) zprostředkovaná zkušenost s nimi. V tomto ohledu lze vnímat pozitivně, že jednotlivé třídy se shodnou ve vyšší důvěře soudům a policii, ale také varovně, že je u všech cítit skepse k politickým institucím. Co je však možná nejzávažnější, je právě lidské odcizení Strádající, ale i Tradiční pracující třídyprojevující se nižší mírou důvěry lidem.
+
+"S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál," říká Tabery. Je to jeden z šesti druhů kapitálů, které sociologové určili - indikuje, jak silnou sociální záchrannou síť kolem sebe lidé mají. "Největší roli hraje u mezilidské důvěry."
+
+## Komu a čemu (ne)důvěřují zástupci společenských tříd
+<div id="graf-duvera-inst" class="graf-duvera"></div>
+<div class="grafy-grid">
+	<div id="graf-duvera-moc-inst"></div>
+	<div id="graf-duvera-pol-inst"></div>
+</div>
+
+<div id="tridy-box"></div>
+<script src="https://data.irozhlas.cz/tridy-model/box_standalone/output.js"></script>
+
+<div id="graf-strukt"></div>
+
 <left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
+<a href="https://www.irozhlas.cz/rozdeleni-svobodou"><img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%"></a>
+<p>Seriál vychází na serveru iROZHLAS.cz vždy v úterý.</p>
+<p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
+<p>Druhý díl: <a href="https://www.irozhlas.cz/zpravy-domov/spolecnost-nazory-postoje-tridy_1909240600_pek">18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje</a></p>
+<p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
 </left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve "špičce" okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+## Struktura - brožura
+Cílem našeho výzkumu je zjistit, jaká je struktura české společnosti a jaké společenské třídy v ní lze najít. Kromě skutečného rozvrstvení však hraje neméně důležitou roli i to, jaké představy o rozvrstvení společnosti panují, tedy jak je vnímáno samotnými lidmi. Nejen skutečný stav, ale i představa občanů o tom, jaká je společnost, totiž ovlivňuje jejich jednání, postoje či aspirace.Mínění obyvatel o rozvrstvení společnosti bylo ve výzkumu zjišťováno otázkou, u které si respondent mohl vybrat ze čtyř výroků doplněných obrázky (viz rámeček Předložené varianty struktury společnosti). Nejvíce lidí (45 %) vnímá českou společnost jako pyramidu složenou z vyšší, střední a nižší třídy, které toho nemají příliš společného. Následuje představa (36 %), že je společnost rozdělena na tři skupiny, ze kterých jednu tvoří úzká elita, druhou rovněž velmi malá část nejníže postavených, nicméně většina společnosti je někde uprostřed a lidé v rámci této většiny jsou víceméně stejní. Pouze 15 % lidí zastává myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí malá společenská špička a obyčejní lidé. A skutečně minimum lidí (4 %) vidí společnost jako zcela homogenní a bez rozdílů. Česká společnost jako celek se tak nevnímá jako beztřídní nebo zcela bez vrstev, ovšem nezastává ani názor, že by šlo o dvě skupiny, tedy elitu a ostatní, obyčejné občany. Přednost dostaly dvě představy o společnosti, které ji dělí na nižší, střední a vyšší vrstvy, ovšem každá jiným způsobem: jedna představuje tyto vrstvy jako relativně oddělené, žijící vlastním životem, ve druhé je zdůrazněna široká střední třída, ve které jsou si lidé podobní.
 
-Naopak v noci se nejvíc lidí se "namačká" ve Vršovicích, jde o 430 osob na hektar.
+<div id="graf-zaraz"></div>
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+Otázkou však je: Jsou tyto celkové představy sdílené ve stejné míře všemi třídami? První pohled na rozdělení těchto představ v rámci jednotlivých tříd vede k závěru, že vnímání struktury české společnosti není diametrálně odlišné, což však neznamená, že neexistují rozdíly. Nejvíce ve svém pohledu vybočuje Strádající třída, v níž je výrazně větší podíl lidí (26 %), kteří se domnívají, že společnost je rozdělena pouze na dvě části – obyčejné lidi a společenskou elitu. Naopak dvě třídy, které můžeme chápat jako vyšší střední vrstvy, Zajištěná střední třída a Nastupující kosmopolitní třída, častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři nižší střední třídy, tedy Tradiční pracující třída, Třída místních vazeb a Ohrožená třída, se ve svých náhledech na rozvrstvení společnosti neliší. Největší rozdíl ve vnímání struktury společnosti tak vzniká na obou pomyslných koncích třídního dělení, přičemž lidé v těchto třídách mají jistou tendenci chápat sebe jako „obyčejné lidi“ a ze své optiky pojímat i celou strukturu společnosti.
 
-<wide><i>Pokud vás zajímá, "kolik" lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte "posuvníkem" nahoře.</i></wide>
+Trochu jiný pohled na představy o struktuře společ-nosti poskytuje sebezařazení příslušníků jednotlivých tříd do určité společenské vrstvy. Toto sebezařazení do jisté míry kopíruje rozvrstvení společnosti na třídy zjištěné ve výzkumu, ovšem jsou zde i na první pohled viditelné rozdíly. Většina lidí z každé třídy s výjimkou Strádající třídy totiž sama sebe řadí ke střední vrstvě. V případě Strádající třídy je zde zjevný posun k nižším třídám, ovšem i tak převládá řazení se k nižší střední a střední vrstvě. A naopak, i když velikost ekonomic-kého, ale i sociálního a kulturního kapitálu činí ze Zajištěné střední třídy jednu z vyšších středních tříd, pouze celkem malý podíl jejich příslušníků (17 %) takto vidí sama sebe. Velmi podobná je situace i u Nastupující kosmopolitní třídy, i když ta ve větší míře vnímá své výsadní postavení. Za vyšší střední vrstvu se považuje 27 % jejích příslušníků. A zatímco ke zcela nejnižší třídě se hlásí poměrně velká část lidí ze Strádající třídy(22 %), ale i menší podíl z Tradiční pracující a Ohrožené třídy, nejvyšší třída v podstatě není zastoupena. Takže i když se při hodnocení celkové struktury společnosti lidé kloní k tomu, že někde na její špičce je vyšší vrstva, vrstva elit, sami sebe do této skupiny řadí minimálně.
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+## Postoje vůči různým společenským skupinám
+Každá společnost se skládá z různorodých etnických, politic-kých, náboženských a dalších skupin, které spolu v daném pro-storu žijí a sdílejí zdroje. Pokud je některá ze skupin vnímána zbytkem společnosti velmi negativně, zpravidla dochází k její diskriminaci, může se stát cílem celospolečenské frustrace, nebo napětí může přerůst až ve společenský konflikt. Postoje skupin mezi sebou a také postoje většiny vůči menšinovým skupinám jsou tak jedním ze zásadních ukazatelů společenské soudržnosti.Vztahy k vybraným skupinám byly ve výzkumu měřeny pomocí Bogardusovy škály sociální distance (viz rámeček). Největší odstup má česká společnost vůči lidem závislým na drogách, kdy 67 % obyvatel by je nepřijalo ani jako návštěv-níky České republiky. Druhou největší distanci mají Češi vůči muslimům, které by 38 % respondentů do ČR nevpustilo a 34 % vpustilo pouze jako návštěvníky. Následují Romové, které by nevpustilo do ČR 25 % respondentů a 25 % je akceptuje maximálně jako občany ČR. Drogově závislí, muslimové a Romové jsou tak v očích veřejnosti pojímáni jako nejvíce nepřijatelné skupiny obyvatel. Ostatní šetřené skupiny již ne-jsou vnímány tak negativně.Co se týče rozdílů mezi třídami, je zde patrný obecný trend, že třídy s vyššími kapitály jsou vůči skupinám tolerant-nější. Nastupující kosmopolitní třída tak například zastává ke všem skupinám nejvstřícnější postoje, a naopak Strádající tří-da si udržuje od všech skupin největší odstup. Z tohoto trendu je zajímavou výjimkou Tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná Strádající třídě než ostatním nižším středním třídám. Míru příznivého vnímání skupin totiž výrazně zvyšuje lidský kapitál a v menší míře také soci-álně podpůrný kapitál, kterými Tradiční pracující třída dispo-nuje spíše v menší míře. Vyšší míra zmíněných dvou kapitálů u Nastupující kosmopolitní třídy vysvětluje také to, že tato třída ve srovnání se Zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří disponují schopnostmi překračovat komunikační bariéry, ať už jazykové, či technologické, jsou vůči různým skupinám vstřícnější.
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
-
-Mobilní operátor má ["zákonnou povinnost"](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
-
-Operátoři ale obdobné informace mohou anonymizovat (tedy "zbavit" identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+**bOgARdUSOVA šKÁLASOcIÁLNí dISTANcE**: Bogardusova škála je již téměř sto let využívaný způsob, kterým lze měřit míru vstřícnosti vůči různým skupinám obyvatel. Respondent je dotázán, jak blízko by byl ochoten k sobě pustit příslušníka dané skupiny, přičemž blízkost může určit výběrem z následujících kategorií: životní partner – přítel – soused – spolupracovník, kolega – občan země – návštěvník země – nepřijal by ani jako návštěvníka země. Pokud je někdo ochoten například přijmout člena určité skupiny jako svého životního partnera, předpokládá se, že má pozitivní vztah ke skupině jako celku. Uvedené kategorie jsou navrženy a testovány tak, aby byly od sebe přibližně stejně vzdálené, tedy po jednotlivých krocích je dávkována vždy stejná míra vstřícnosti (nebo směrem ven ne-vstřícnosti). Například rozdíl v míře vstřícnosti mezi kategoriemi „kolega“ a „občan země“ by měl být velmi podobný jako rozdíl mezi kategoriemi „přítel“ a „soused“.

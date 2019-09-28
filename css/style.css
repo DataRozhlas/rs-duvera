@@ -1,0 +1,23 @@
+.grafy-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grafy-grid > div {
+  width: 50%;
+  height: 300px;
+}
+
+.graf-duvera {
+  height: 250px;
+}
+
+@media only screen and (max-width: 600px) {
+  .grafy-grid > div {
+    width: 100%;
+  }
+
+  .graf-duvera {
+    height: 400px;
+  }
+}
