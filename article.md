@@ -1,10 +1,10 @@
 title: "Elity existují, myslí si Češi. Sami se k nim ale neřadí"
 perex: "Češi jsou jako celek nedůvěřiví ke státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sami sebe zařazuje do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rozdeleni_1080x1080_190924-173735_cib.jpg?itok=rj9ci95f
+coverimg_note: "Ilustrace: Toy Box"
 styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [noheader] #wide, noheader (, nopic)
 ---
 "Vysoká míra důvěry ve společnosti je spojovaná se samými pozitivy," říká spoluautorka výzkumu Paulína Tabery z Centra pro výzkum veřejného mínění (CVVM). "Zajišťuje ve společnosti stabilitu a soudržnost a ulehčuje vše od obchodních transakcí po běžnou komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je totiž mnohem lehčí."
 
