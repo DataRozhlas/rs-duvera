@@ -94,11 +94,11 @@ Následují muslimové, které by 38 % respondentů nevpustilo do ČR a 34 % by 
 
 Pohled po třídách ukazuje, že do čím vyšší z nich se lidé řadí, tím jsou vůči menšinám tolerantnější. Nastupující kosmopolitní třída tak zastává ke všem skupinám nejvstřícnější postoje, strádající třída si od nich naopak udržuje největší odstup. Výjimku tvoří tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná strádající třídě než ostatním nižším středním třídám. 
 
-"Míru příznivého vnímání skupin výrazně zvyšuje lidský kapitál a v menší míře také pomáhající kapitál, kterými tradiční pracující třída disponuje spíše méně," říká Tabery. "Vyšší míra zmíněných dvou kapitálů u nastupující kosmopolitní třídy vysvětluje i to, že tato třída ve srovnání se zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří zvládnou překračovat komunikační bariéry, ať už jazykové, nebo technologické, jsou vůči různým skupinám vstřícnější."
+Ve vstřícnosti vůči menšinám přitom nehraje zásadní roli příjem ani majetek. "Míru příznivého vnímání skupin výrazně zvyšuje lidský kapitál a v menší míře také pomáhající kapitál, kterými tradiční pracující třída disponuje spíše méně," říká Tabery. "Vyšší míra zmíněných dvou kapitálů u nastupující kosmopolitní třídy vysvětluje i to, že tato třída ve srovnání se zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří zvládnou překračovat komunikační bariéry, ať už jazykové, nebo technologické, jsou vůči různým skupinám vstřícnější."
 
 <br>
 
-## Nezaměstnaní neprospívají
+## Prospěšní intelektuálové? Jak pro koho
 
 Výzkumníci položili respondentům i další sadu otázek, která se týká společenské soudržnosti - to, jak se staví k širokým kategoriím obyvatel jako "finanční elity" nebo "nezaměstnaní". Dotázaní měli na škále od nuly do sta ohodnotit, jak dané skupiny prospívají společnosti, jestli mají vliv na její fungování a zda si své postavení zaslouží. 
 
@@ -110,4 +110,4 @@ Největší rozdíly mezi třídami se ukázaly ve vnímání kulturních elit a
 
 Rozdíl se ukazuje ve vnímání nezaměstnaných, konkrétně v tom, jak moc si zaslouží své postavení. "U všech tříd je postavení nezaměstnaných vnímáno jako víceméně nezasloužené, vidíme ale velké rozdíly mezi dvěma vyššími středními třídami a strádající třídou, která se k nim staví shovívavěji," říká Tabery. "U zajištěné střední a nastupující kosmopolitní třídy je vidět více výkonnostní přístup nebo přístup osobní odpovědnosti. To je nejspíš dáno menšími zkušenostmi s negativními jevy i představami o větších možnostech ovlivňovat svou situaci."
 
-Od ostatních sad otázek se tato liší tak, že ji sociologové pokládali jen online, výsledky tedy nereprezentují celou populaci. "Indikují spíše postoje jednotlivých tříd k daným skupinám. Odpovědi nemusí být tak přesné u strádající třídy a starších lidí, kteří nejsou online, zato třeba u nastupující kosmopolitní třídy budou výsledky odpovídat," doplňuje Tabery.
+Od ostatních sad otázek se tato liší tak, že ji sociologové kvůli délce dotazníku pokládali jen online, výsledky tedy nereprezentují celou populaci. "Indikují spíše postoje jednotlivých tříd k daným skupinám. Odpovědi nemusí být tak přesné u strádající třídy a starších lidí, kteří nejsou online, zato třeba u nastupující kosmopolitní třídy budou výsledky odpovídat," doplňuje Tabery.
