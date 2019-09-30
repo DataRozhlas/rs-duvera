@@ -1,5 +1,5 @@
 title: "Elity existují, myslí si Češi. Sami se k nim ale neřadí"
-perex: "Češi jsou jako celek nedůvěřiví ke státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sami sebe zařazuje do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
+perex: "Češi jsou jako celek nedůvěřiví ke státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sami sebe zařazují do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rozdeleni_1080x1080_190924-173735_cib.jpg?itok=rj9ci95f
 coverimg_note: "Ilustrace: Toy Box"
 styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
@@ -15,7 +15,9 @@ S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál - jede
 ## Jak si věříme
 Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poctivost lidí. Pro fungující společnost je podle nich velmi důležitá a její deficit může do budoucna znamenat problém.
 
-Každá z <a href="#tridy-box">šesti společenských tříd</a>, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot.
+Každá z <a href="#tridy-box">šesti společenských tříd</a>, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
+
+Právě na teploměry vědci přepočítali výsledky pěti a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují nebo nedůvěřují lidem nebo vybraným institucím.
 
 <div id="graf-duvera-mzl" class="graf-duvera"></div>
 
@@ -43,9 +45,9 @@ Strádající třída si drží největší odstup i v důvěře institucím, kt
 
 ## Obyčejní lidé vs. elita?
 
-Výzkum zjišťoval především strukturu české společnosti a to, jaké společenské třídy v ní lze najít. Kromě toho ale podle sociologů hraje důležitou roli o to, jaké představy o rozvrstvení společnosti Češi mají. "Jednání, postoje nebo aspirace lidí neovlivňuje jen skutečný stav, ale také jejich vlastní představa o tom, jak vypadá společnost, ve které žijí," doplňuje Tabery.
+Výzkum zjišťoval především strukturu české společnosti a to, jaké společenské třídy v ní lze najít. Kromě toho ale podle sociologů hraje důležitou roli i to, jaké představy o rozvrstvení společnosti Češi mají. "Jednání, postoje nebo aspirace lidí neovlivňuje jen skutečný stav, ale také jejich vlastní představa o tom, jak vypadá společnost, ve které žijí," vysvětluje další spoluautor výzkumu Matouš Pilnáček z CVVM.
 
-Mínění obyvatel o rozvrstvení společnosti se ve výzkumu zjišťoval otázkou, u které si respondent mohl vybrat ze čtyř variant rozdělení společnosti. Ukázalo se, že nejvíce lidí - 45 procent - vnímá českou společnost jako pyramidu složenou z vyšší, střední a nižší třídy, které toho nemají příliš společného. Následuje představa (36 %), že společnost je rozdělená na tři skupiny, ze kterých jednu tvoří úzká elita a druhou rovněž velmi malá část nejníže postavených - většina lidí je ovšem v té třetí, která je uprostřed. 
+Mínění obyvatel o rozvrstvení společnosti se ve výzkumu zjišťovalo otázkou, u které si respondent mohl vybrat ze čtyř variant rozdělení společnosti. Ukázalo se, že nejvíce lidí - 45 procent - vnímá českou společnost jako pyramidu složenou z vyšší, střední a nižší třídy, které toho nemají příliš společného. Následuje představa (36 %), že společnost je rozdělená na tři skupiny, ze kterých jednu tvoří úzká elita a druhou rovněž velmi malá část nejníže postavených - většina lidí je ovšem v té třetí, která je uprostřed. 
 
 Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí malá společenská špička a obyčejní lidé, zastává jen 15 procent lidí. Vůbec nejméně, 4 procenta, pak vidí společnost jako stejnorodou a bez rozdílů. 
 
@@ -53,7 +55,7 @@ Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí mal
 
 Češi vnímají strukturu společnosti podobně i napříč společenskými třídami. Rozdíly ale existují. Nejvíce ve svém pohledu vybočuje strádající třída, v níž vidí 26 procent lidí - výrazně víc než v jiných třídách - společnost jako rozdělenou na obyčejné lidi a elitu.
 
-Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení společnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Tabery. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a ze toho pohledu pojímat i celou strukturu společnosti."
+Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení společnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Pilnáček. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a z toho pohledu pojímat i celou strukturu společnosti."
 
 ## Kam se řadíme
 
@@ -71,7 +73,7 @@ A zatímco se k nejnižší třídě hlásí poměrně velká část lidí ze st
 Bogardusova škála je už téměř sto let využívaný způsob měření míry vstřícnosti vůči různým skupinám obyvatel. Respondent je dotázán, jak blízko by byl ochoten k sobě pustit příslušníka dané skupiny, přičemž blízkost může určit výběrem z následujících kategorií: životní partner – přítel – soused – spolupracovník, kolega – občan země – návštěvník země – nepřijal by ani jako návštěvníka země. Pokud je někdo ochoten například přijmout člena určité skupiny jako svého životního partnera, předpokládá se, že má pozitivní vztah ke skupině jako celku. Kategorie jsou navrženy a testovány tak, aby byly od sebe přibližně stejně vzdálené, rozdíl v míře vstřícnosti mezi kategoriemi „kolega“ a „občan země“ by tak měl být velmi podobný jako rozdíl mezi kategoriemi „přítel“ a „soused“.
 </right>
 
-Výzkumníci se nezabývali jen důvěrou mezi lidmi a k institucím, ale také to, jak Češi vnímají menšiny, které mezi nimi žijí. "Pokud je některou z menšinových skupin vnímá zbytek společnosti velmi negativně, zpravidla dochází k její diskriminaci, může se stát cílem celospolečenské frustrace a napětí může přerůst až ve společenský konflikt," upozorňuje Tabery. "Postoje k menšinám jsou tak jedním ze zásadních ukazatelů společenské soudržnosti."
+Výzkumníci se nezabývali jen důvěrou mezi lidmi a k institucím, ale také tím, jak Češi vnímají menšiny, které mezi nimi žijí. "Pokud některou z menšinových skupin vnímá zbytek společnosti velmi negativně, zpravidla dochází k její diskriminaci, může se stát cílem celospolečenské frustrace a napětí může přerůst až ve společenský konflikt," upozorňuje Tabery. "Postoje k menšinám jsou tak jedním ze zásadních ukazatelů společenské soudržnosti."
 
 Vztahy k vybraným skupinám měřili sociologové pomocí takzvané Bogardusovy škály sociální distance, která přisuzuje skupinám různou míru "vzdálenosti". Zjistili tak, že největší odstup má česká společnost vůči lidem závislým na drogách. 67 procent obyvatel by je nepřijalo ani jako návštěvníky České republiky. 
 
@@ -90,7 +92,7 @@ Následují muslimové, které by 38 % respondentů nevpustilo do ČR a 34 % by 
 <p><b>Poslední kategorie</b> zahrnuje <i>lidský kapitál</i>, tedy hlavně znalosti cizích jazyků a počítačové dovednosti, a <i>kulturní kapitál</i> měřený třeba tím, jak často dotyční chodí do divadel, muzeí nebo na výstavy. Díky němu se mezi generacemi přenášejí hodnoty, jako je důraz na vzdělání.</p>
 </left>
 
-Pohled po třídách ukazuje, že do čím vyšší vrstvy se lidé řadí, tím jsou vůči menšinám tolerantnější. Nastupující kosmopolitní třída tak zastává ke všem skupinám nejvstřícnější postoje, strádající třída si od nich naopak udržuje největší odstup. Výjimku tvoří tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná strádající třídě než ostatním nižším středním třídám. 
+Pohled po třídách ukazuje, že do čím vyšší z nich se lidé řadí, tím jsou vůči menšinám tolerantnější. Nastupující kosmopolitní třída tak zastává ke všem skupinám nejvstřícnější postoje, strádající třída si od nich naopak udržuje největší odstup. Výjimku tvoří tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná strádající třídě než ostatním nižším středním třídám. 
 
 "Míru příznivého vnímání skupin výrazně zvyšuje lidský kapitál a v menší míře také pomáhající kapitál, kterými tradiční pracující třída disponuje spíše méně," říká Tabery. "Vyšší míra zmíněných dvou kapitálů u nastupující kosmopolitní třídy vysvětluje i to, že tato třída ve srovnání se zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří zvládnou překračovat komunikační bariéry, ať už jazykové, nebo technologické, jsou vůči různým skupinám vstřícnější."
 
