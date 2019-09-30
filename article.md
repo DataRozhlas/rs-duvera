@@ -17,7 +17,7 @@ Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poct
 
 Každá z <a href="#tridy-box">šesti společenských tříd</a>, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
 
-Právě na teploměry vědci přepočítali výsledky pěti a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují nebo nedůvěřují lidem nebo vybraným institucím.
+Právě na teploměry vědci přepočítali výsledky pěti- a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují nebo nedůvěřují lidem nebo vybraným institucím.
 
 <div id="graf-duvera-mzl" class="graf-duvera"></div>
 
