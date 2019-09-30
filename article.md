@@ -6,6 +6,14 @@ styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
+<left>
+<a href="https://www.irozhlas.cz/rozdeleni-svobodou"><img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%"></a>
+<p>Seriál vychází na serveru iROZHLAS.cz vždy v úterý.</p>
+<p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
+<p>Druhý díl: <a href="https://www.irozhlas.cz/zpravy-domov/spolecnost-nazory-postoje-tridy_1909240600_pek">18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje</a></p>
+<p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
+</left>
+
 Výzkum, který rozdělil Čechy do <a href="#tridy-box">šesti společenských tříd</a>, u respondentů zjišťoval mimo jiné to, jak vidí svoje postavení ve společnosti, koho by přijali za sousedy i jak si vzájemně důvěřují. 
 
 Právě důvěra je totiž podle spoluautorky výzkumu Paulíny Tabery z Centra pro výzkum veřejného mínění (CVVM) ve společnosti klíčová. "Přináší stabilitu a soudržnost a ulehčuje lidem vše od obchodních transakcí po každodenní komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je mnohem lehčí," říká pro iROZHLAS.cz Tabery.
@@ -36,14 +44,6 @@ Strádající třída si drží největší odstup i v důvěře institucím, kt
 ## Šest společenských tříd
 <div id="tridy-box"></div>
 <script src="https://data.irozhlas.cz/tridy-model/box_standalone/output.js"></script>
-
-<left>
-<a href="https://www.irozhlas.cz/rozdeleni-svobodou"><img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_l_190916-172827_zlo.png" width="100%"></a>
-<p>Seriál vychází na serveru iROZHLAS.cz vždy v úterý.</p>
-<p>První díl: <a href="https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo">Česká společnost se nedělí na dva tábory, ale do šesti tříd. Zjistěte, do které patříte vy</a></p>
-<p>Druhý díl: <a href="https://www.irozhlas.cz/zpravy-domov/spolecnost-nazory-postoje-tridy_1909240600_pek">18 štěpících linií v české společnosti: podívejte se, co nás nejvíc rozděluje a co spojuje</a></p>
-<p>Další rozhovory, reportáže a analýzy můžete sledovat <a href="https://www.irozhlas.cz/rozdeleni-svobodou">na serveru iROZHLAS.cz</a>, ve vysílání <a href="https://radiozurnal.rozhlas.cz/">Radiožurnálu</a> a <a href="https://plus.rozhlas.cz/">Českého rozhlasu Plus</a>.
-</left>
 
 ## Obyčejní lidé vs. elita?
 
@@ -97,8 +97,6 @@ Následují muslimové, které by 38 % respondentů nevpustilo do ČR a 34 % by 
 Pohled po třídách ukazuje, že do čím vyšší z nich se lidé řadí, tím jsou vůči menšinám tolerantnější. Nastupující kosmopolitní třída tak zastává ke všem skupinám nejvstřícnější postoje, strádající třída si od nich naopak udržuje největší odstup. Výjimku tvoří tradiční pracující třída, která je svými postoji vůči muslimům, Romům, osobám jiné barvy pleti a drogově závislým více podobná strádající třídě než ostatním nižším středním třídám. 
 
 Ve vstřícnosti vůči menšinám přitom nehraje zásadní roli příjem ani majetek. "Míru příznivého vnímání skupin výrazně zvyšuje lidský kapitál a v menší míře také pomáhající kapitál, kterými tradiční pracující třída disponuje spíše méně," říká Tabery. "Vyšší míra zmíněných dvou kapitálů u nastupující kosmopolitní třídy vysvětluje i to, že tato třída ve srovnání se zajištěnou střední třídou příznivěji vnímá vybrané skupiny lidí. Ukazuje se tak, že lidé, kteří zvládnou překračovat komunikační bariéry, ať už jazykové, nebo technologické, jsou vůči různým skupinám vstřícnější."
-
-<br>
 
 ## Prospěšní intelektuálové? Jak pro koho
 
