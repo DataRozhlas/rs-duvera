@@ -1,12 +1,14 @@
 title: "Elity existují, myslí si Češi. Sami se k nim ale neřadí"
-perex: "Češi jsou jako celek nedůvěřiví ke státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sami sebe zařazují do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
+perex: "Češi jsou nedůvěřiví vůči státním institucím i k sobě navzájem. A zatímco mezi nimi existují velké rozdíly, většina z nich, chudí i bohatí, sama sebe zařazuje do střední třídy. Ukazují to data z výzkumu <a href='https://www.irozhlas.cz/rozdeleni-svobodou'>Česká společnost po třiceti letech</a>."
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_otvirak_velky/public/uploader/rozdeleni_1080x1080_190924-173735_cib.jpg?itok=rj9ci95f
 coverimg_note: "Ilustrace: Toy Box"
 styles: ["https://data.irozhlas.cz/tridy-model/box_standalone/css/style.css"]
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
-"Vysoká míra důvěry ve společnosti je spojovaná se samými pozitivy," říká spoluautorka výzkumu Paulína Tabery z Centra pro výzkum veřejného mínění (CVVM). "Zajišťuje ve společnosti stabilitu a soudržnost a ulehčuje vše od obchodních transakcí po běžnou komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je totiž mnohem lehčí."
+Výzkum, který rozdělil Čechy do <a href="#tridy-box">šesti společenských tříd</a>, u respondentů zjišťoval mimo jiné to, jak vidí svoje postavení ve společnosti, koho by přijali za sousedy i jak si vzájemně důvěřují. 
+
+Právě důvěra je totiž podle spoluautorky výzkumu Paulíny Tabery z Centra pro výzkum veřejného mínění (CVVM) ve společnosti klíčová. "Přináší stabilitu a soudržnost a ulehčuje lidem vše od obchodních transakcí po každodenní komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je mnohem lehčí."
 
 Společnosti, ve kterých je důvěra nízká, naopak neprospívají, což se projevuje na fungování státu i v mezilidských vztazích. Důvěra mezi nejbližšími i zkušenosti s těmi, které člověk osobně nezná, jsou tak klíčovými ukazateli fungující demokracie. "Typů důvěry je více, ale v našem výzkumu jsme se zaměřili na dva typy: mezilidskou důvěru a důvěru v instituce státu," říká Tabery. 
 
@@ -15,7 +17,7 @@ S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál - jede
 ## Jak si věříme
 Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poctivost lidí. Pro fungující společnost je podle nich velmi důležitá a její deficit může do budoucna znamenat problém.
 
-Každá z <a href="#tridy-box">šesti společenských tříd</a>, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
+Každá z šesti tříd, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
 
 Právě na teploměry vědci přepočítali výsledky pěti- a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují nebo nedůvěřují lidem nebo vybraným institucím.
 
