@@ -8,22 +8,22 @@ options: [noheader] #wide, noheader (, nopic)
 ---
 Výzkum, který rozdělil Čechy do <a href="#tridy-box">šesti společenských tříd</a>, u respondentů zjišťoval mimo jiné to, jak vidí svoje postavení ve společnosti, koho by přijali za sousedy i jak si vzájemně důvěřují. 
 
-Právě důvěra je totiž podle spoluautorky výzkumu Paulíny Tabery z Centra pro výzkum veřejného mínění (CVVM) ve společnosti klíčová. "Přináší stabilitu a soudržnost a ulehčuje lidem vše od obchodních transakcí po každodenní komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je mnohem lehčí."
+Právě důvěra je totiž podle spoluautorky výzkumu Paulíny Tabery z Centra pro výzkum veřejného mínění (CVVM) ve společnosti klíčová. "Přináší stabilitu a soudržnost a ulehčuje lidem vše od obchodních transakcí po každodenní komunikaci. Pohybovat se v prostředí, kterému se dá důvěřovat, je mnohem lehčí," říká pro iROZHLAS.cz Tabery.
 
-Společnosti, ve kterých je důvěra nízká, naopak neprospívají, což se projevuje na fungování státu i v mezilidských vztazích. Důvěra mezi nejbližšími i zkušenosti s těmi, které člověk osobně nezná, jsou tak klíčovými ukazateli fungující demokracie. "Typů důvěry je více, ale v našem výzkumu jsme se zaměřili na dva typy: mezilidskou důvěru a důvěru v instituce státu," říká Tabery. 
+Společnosti, ve kterých je důvěra nízká, naopak neprospívají, což se projevuje na fungování státu i v mezilidských vztazích. Důvěra mezi nejbližšími i zkušenosti s těmi, které člověk osobně nezná, jsou tak klíčovými ukazateli fungující demokracie. "Typů důvěry je více, ale v našem výzkumu jsme se zaměřili na dva typy: mezilidskou důvěru a důvěru v instituce státu," přibližuje Tabery. 
 
-S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál - jeden z šesti kategorií kapitálu, které sociologové respondentům výzkumu přiřazovali. Ten indikuje, zda mají v nejbližším okolí někoho připraveného pomoci například během nemoci nebo při finančních nesnázích. Největší roli podle Tabery hraje u mezilidské důvěry.
+S důvěrou obecně nejsilněji souvisí takzvaný pomáhající kapitál – jedna z šesti kategorií kapitálu, které sociologové respondentům výzkumu přiřazovali. Ten indikuje, zda mají v nejbližším okolí někoho připraveného pomoci například během nemoci nebo při finančních nesnázích. Největší roli podle Tabery hraje u mezilidské důvěry.
 
 ## Jak si věříme
 Obecnou mezilidskou důvěru výzkumníci měřili názorem dotázaných na poctivost lidí. Pro fungující společnost je podle nich velmi důležitá a její deficit může do budoucna znamenat problém.
 
-Každá z šesti tříd, do kterých se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," říká Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné - její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
+Každá z šesti tříd, do nichž se podle výzkumníků Češi dělí, se v míře důvěry liší. "Nejmenší důvěru k lidem pociťuje strádající třída," vysvětluje Tabery. "Následují ji dvě nižší střední třídy, tedy tradiční pracující třída a s jistým odstupem ohrožená třída. Naopak třída místních vazeb a zajištěná střední třída jsou si z hlediska obecné důvěry podobné – její míra je citelně vyšší než u prvních tří jmenovaných." Nejvíc se pak od ostatních liší nastupující kosmopolitní třída, u které jako u jediné dosahuje mezilidská důvěra kladných hodnot na takzvaném teploměru.
 
-Právě na teploměry vědci přepočítali výsledky pěti- a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují nebo nedůvěřují lidem nebo vybraným institucím.
+Právě na teploměry vědci přepočítali výsledky pěti- a čtyřbodových škál. Mohou ukazovat hodnoty od +100 do -100 podle toho, jak členové té které společenské třídy důvěřují, nebo nedůvěřují lidem nebo vybraným institucím.
 
 <div id="graf-duvera-mzl" class="graf-duvera"></div>
 
-Strádající třída si drží největší odstup i v důvěře institucím, která u vyšších tříd naopak roste. Vyšší důvěře napříč třídami se přitom těší mocenské instituce, tedy soudy a policie, než ty politické, jako jsou vláda a parlament.
+Strádající třída si drží největší odstup i v důvěře institucím, která u vyšších tříd naopak roste. Vyšší důvěře napříč třídami se přitom těší mocenské instituce, tedy soudy a policie, než ty politické, jako jsou vláda a Parlament.
 
 "Jednotlivé třídy se shodnou ve vyšší důvěře soudům a policii, ale u všech je také cítit skepse k politickým institucím," podotýká Tabery. "Co je ale možná nejzávažnější, je lidské odcizení příslušníků strádající i tradiční pracující třídy, které se projevuje se nižší mírou důvěry lidem."
 
@@ -47,25 +47,25 @@ Strádající třída si drží největší odstup i v důvěře institucím, kt
 
 ## Obyčejní lidé vs. elita?
 
-Výzkum zjišťoval především strukturu české společnosti a to, jaké společenské třídy v ní lze najít. Kromě toho ale podle sociologů hraje důležitou roli i to, jaké představy o rozvrstvení společnosti Češi mají. "Jednání, postoje nebo aspirace lidí neovlivňuje jen skutečný stav, ale také jejich vlastní představa o tom, jak vypadá společnost, ve které žijí," vysvětluje další spoluautor výzkumu Matouš Pilnáček z CVVM.
+Výzkum zjišťoval především strukturu české společnosti a to, jaké společenské třídy v ní lze najít. Kromě toho ale podle sociologů hraje důležitou roli i to, jaké představy o rozvrstvení společnosti Češi mají. "Jednání, postoje nebo aspirace lidí neovlivňuje jen skutečný stav, ale také jejich vlastní představa o tom, jak vypadá společnost, ve které žijí," vysvětluje další ze spoluautorů výzkumu Matouš Pilnáček z CVVM.
 
-Mínění obyvatel o rozvrstvení společnosti se ve výzkumu zjišťovalo otázkou, u které si respondent mohl vybrat ze čtyř variant rozdělení společnosti. Ukázalo se, že nejvíce lidí - 45 procent - vnímá českou společnost jako pyramidu složenou z vyšší, střední a nižší třídy, které toho nemají příliš společného. Následuje představa (36 %), že společnost je rozdělená na tři skupiny, ze kterých jednu tvoří úzká elita a druhou rovněž velmi malá část nejníže postavených - většina lidí je ovšem v té třetí, která je uprostřed. 
+Mínění obyvatel o rozvrstvení společnosti se ve výzkumu zjišťovalo otázkou, u které si respondent mohl vybrat ze čtyř variant. Ukázalo se, že nejvíce lidí – 45 procent – vnímá českou společnost jako pyramidu složenou z vyšší, střední a nižší třídy, které toho nemají příliš společného. Následuje představa (36 %), že společnost je rozdělená na tři skupiny, ze kterých jednu tvoří úzká elita a druhou rovněž velmi malá část nejníže postavených – většina lidí je ovšem v té třetí, která je uprostřed. 
 
-Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí malá společenská špička a obyčejní lidé, zastává jen 15 procent lidí. Vůbec nejméně, 4 procenta, pak vidí společnost jako stejnorodou a bez rozdílů. 
+Myšlenku o rozdělení společnosti na dvě části, kde proti sobě stojí malá společenská špička a obyčejní lidé, zastává jen 15 procent lidí. Vůbec nejméně, čtyři procenta, pak vidí společnost jako stejnorodou a bez rozdílů. 
 
 <div id="graf-strukt" class="graf-strukt"></div>
 
-Češi vnímají strukturu společnosti podobně i napříč společenskými třídami. Rozdíly ale existují. Nejvíce ve svém pohledu vybočuje strádající třída, v níž vidí 26 procent lidí - výrazně víc než v jiných třídách - společnost jako rozdělenou na obyčejné lidi a elitu.
+Češi vnímají strukturu společnosti podobně i napříč společenskými třídami. Rozdíly ale existují. Nejvíce ve svém pohledu vybočuje strádající třída, v níž vidí 26 procent lidí – výrazně víc než v jiných třídách – společnost jako rozdělenou na obyčejné lidi a elitu.
 
-Dvě třídy, které můžeme chápat jako vyšší střední vrstvy, zajištěná střední třída a nastupující kosmopolitní třída, naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení společnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Pilnáček. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a z toho pohledu pojímat i celou strukturu společnosti."
+Dvě třídy, které můžeme chápat jako vyšší střední vrstvy (zajištěnou střední třídu a nastupující kosmopolitní třídu), naopak častěji zastávají názor, že společnost je rozdělena na tři skupiny, přičemž ve střední vrstvě si je většina lidí podobná. Zbylé tři třídy se ve svých náhledech na rozvrstvení společnosti neliší. "Největší rozdíl ve vnímání struktury společnosti vzniká na obou pomyslných koncích třídního dělení," říká Pilnáček. "Lidé v těchto třídách mají jistou tendenci chápat sebe jako ‚obyčejné lidi‘ a z toho pohledu pojímat i celou strukturu společnosti."
 
 ## Kam se řadíme
 
-Další úhel pohledu na představy o struktuře společnosti poskytují odpovědi na otázku, do které vrstvy by se příslušníci jednotlivých tříd sami zařadili. Toto sebezařazení částečně kopíruje rozvrstvení společnosti na třídy zjištěné ve výzkumu, najdeme ovšem i viditelné rozdíly. "Většina lidí z každé třídy s výjimkou strádající řadí sama sebe ke střední vrstvě," říká Tabery. "Strádající třída se oproti ostatním zjevně zařazuje níž, i tak u ní ale převládá řazení k nižší střední a střední vrstvě."
+Další úhel pohledu na představy o struktuře společnosti poskytují odpovědi na otázku, do které vrstvy by se příslušníci jednotlivých tříd sami zařadili. Toto sebezařazení částečně kopíruje rozvrstvení společnosti na třídy zjištěné ve výzkumu, najdeme ovšem i viditelné rozdíly. "Většina lidí z každé třídy s výjimkou strádající řadí sama sebe ke střední vrstvě," přibližuje Tabery. "Strádající třída se oproti ostatním zjevně zařazuje níž, i tak u ní ale převládá řazení k nižší střední a střední vrstvě."
 
 <div id="graf-zaraz"></div>
 
-To samé platí i u zajištěné střední třídy, která je podle svých kapitálů jednou z vyšších středních tříd, sebezařazuje se tak ale pouhých 17  procent jejích příslušníků. Nastupující kosmopolitní třída vnímá své výsadní postavení o něco více, situace ale je podobná - za vyšší střední vrstvu se považuje jen 27 % jejích příslušníků.
+To samé platí i u zajištěné střední třídy, která je podle svých kapitálů jednou z vyšších středních tříd, sebezařazuje se tak ale pouhých 17  procent jejích příslušníků. Nastupující kosmopolitní třída vnímá své výsadní postavení o něco více, situace ale je podobná – za vyšší střední vrstvu se považuje jen 27 % jejích příslušníků.
 
 A zatímco se k nejnižší třídě hlásí poměrně velká část lidí ze strádající třídy (22 %), ale i příslušníci dalších tříd, do nejvyšší vrstvy sám sebe neřadí téměř nikdo. Paradoxně tak vzniká situace, kdy se při hodnocení celkové struktury společnosti lidé kloní k tomu, že někde na její špičce je vrstva elit, sami sebe ale do této skupiny řadí minimálně.
 
@@ -102,13 +102,13 @@ Ve vstřícnosti vůči menšinám přitom nehraje zásadní roli příjem ani m
 
 ## Prospěšní intelektuálové? Jak pro koho
 
-Výzkumníci položili respondentům i další sadu otázek, která se týká společenské soudržnosti - to, jak se staví k širokým kategoriím obyvatel jako "finanční elity" nebo "nezaměstnaní". Dotázaní měli na škále od nuly do sta ohodnotit, jak dané skupiny prospívají společnosti, jestli mají vliv na její fungování a zda si své postavení zaslouží. 
+Výzkumníci položili respondentům i další sadu otázek, která se týká společenské soudržnosti – to, jak se staví k širokým kategoriím obyvatel jako "finanční elity" nebo "nezaměstnaní". Dotázaní měli na škále od nuly do sta ohodnotit, jak dané skupiny prospívají společnosti, jestli mají vliv na její fungování a zda si své postavení zaslouží. 
 
 <a href="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/tabulka_190928-165311_zlo.png">
 <img src="https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/tabulka_190928-165311_zlo.png" style="width: 100%; margin-bottom: 20px">
 </a>
 
-Největší rozdíly mezi třídami se ukázaly ve vnímání kulturních elit a intelektuálů. Zatímco nastupující kosmopolitní třída vnímá příznivě jejich prospěch společnosti i to, jestli si zaslouží své postavení, tradiční pracující a strádající třídy jsou vůči nim mnohem zdrženlivější a odtažitější. Oproti tomu prakticky panuje shoda na hodnocení finančních elit - jejich vliv vidí všechny třídy jako velmi vysoký, zatímco k jejich prospěšnosti jsou skeptické.
+Největší rozdíly mezi třídami se ukázaly ve vnímání kulturních elit a intelektuálů. Zatímco nastupující kosmopolitní třída vnímá příznivě jejich prospěch společnosti i to, jestli si zaslouží své postavení, tradiční pracující a strádající třídy jsou vůči nim mnohem zdrženlivější a odtažitější. Oproti tomu prakticky panuje shoda na hodnocení finančních elit – jejich vliv vidí všechny třídy jako velmi vysoký, zatímco k jejich prospěšnosti jsou skeptické.
 
 Rozdíl se ukazuje ve vnímání nezaměstnaných, konkrétně v tom, jak moc si zaslouží své postavení. "U všech tříd je postavení nezaměstnaných vnímáno jako víceméně nezasloužené, vidíme ale velké rozdíly mezi dvěma vyššími středními třídami a strádající třídou, která se k nim staví shovívavěji," říká Tabery. "U zajištěné střední a nastupující kosmopolitní třídy je vidět více výkonnostní přístup nebo přístup osobní odpovědnosti. To je nejspíš dáno menšími zkušenostmi s negativními jevy i představami o větších možnostech ovlivňovat svou situaci."
 
